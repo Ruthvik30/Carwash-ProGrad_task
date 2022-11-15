@@ -1,4 +1,4 @@
-# On Demand Car Wash
+# Car Wash
 This application provides car washes to customers at the given location and time, by the registered washers on the application. The customer will send wash 
 requests to washers, which will then, be accepted or rejected by the washer.
 The application is built using **MEAN stack** and follows a 
